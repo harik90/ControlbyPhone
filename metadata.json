@@ -1,0 +1,8 @@
+{
+  "name": "PC Remote Control",
+  "description": "Control your PC's mouse, keyboard, and live screen from your phone browser over local home WiFi with zero installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

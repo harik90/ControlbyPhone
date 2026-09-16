@@ -1,0 +1,6 @@
+# PC Remote Control - Python Dependencies
+websockets>=12.0
+pyautogui>=0.9.54
+qrcode[pil]>=7.4.2
+mss>=9.0.1
+Pillow>=10.0.0
